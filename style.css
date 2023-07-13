@@ -133,6 +133,58 @@ body {
   font-size: 25px;
 }
 
+.third-content {
+  display: flex;
+  background-color: white;
+  padding: 0 160px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+
+}
+
+.container {
+  width: 100%;  /* mnogu bitno */
+  padding-top: 60px;
+  padding-bottom: 60px;
+  padding-left: 150px;
+  padding-right: 150px;
+  display: flex;
+  background-color: #3882F6;
+  gap: 40px;
+}
+
+.action {
+  font-weight: bold;
+  font-size: 27px;
+}
+
+.right {
+  display: flex;
+  align-items: flex-end;
+  margin-left: auto;
+}
+
+.left {
+  color: white;
+  gap: 7px;
+}
+
+.second-button {
+  background-color: #3882F6;
+  border-radius: 8%;
+  color: white;
+  height: 30px;
+  width: 130px;
+  border: 1px solid white;
+  font-weight: 700;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 17px;
+}
+
 
 
 
